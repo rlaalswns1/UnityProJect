@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Unity NavMesh Obstcle/Scene/NavMesh Obstcle.unity
+- path: Assets/Unity Light/Scene/Light.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
